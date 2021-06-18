@@ -1,1 +1,2 @@
 # codeRefactor
+In this homework assignment, I used semantic HTML elements to fis a div soup. This helps the code be easier to read and navigate. I also refactored the CSS file to also be more easier to read and consolidate code that was unnecessary and grouped it with classes with the same attributes.
